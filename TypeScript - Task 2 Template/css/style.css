@@ -1,0 +1,12 @@
+.ball{
+    background-image: url("../images/ball4.jpg");
+    background-repeat: no-repeat;
+    background-size: 60px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+}
+
+body {
+    background-color: #ffff;
+}
