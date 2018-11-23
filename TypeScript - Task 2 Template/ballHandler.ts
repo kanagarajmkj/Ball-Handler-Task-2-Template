@@ -19,7 +19,7 @@
         //let startX = rand.GetNumber(0, window.innerWidth - size);
         //let startY = rand.GetNumber(0, window.innerHeight - size);
 
-
+test you code
 /// reference path
 class MovingBall {
 
